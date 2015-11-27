@@ -1,6 +1,6 @@
 ## Build your own Virtual Machine
 
-### Here's how you can spin up a Virtual Machine for PREST:
+### Here's how you can spin up a Virtual Machine for PREST ...
 
 This folder contains files and scripts used to build a virtual machine using Vagrant and Oracle Virtual Box.  
 This VM will contain the "PREST" Tool.
