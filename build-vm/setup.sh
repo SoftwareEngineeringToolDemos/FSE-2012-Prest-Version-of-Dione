@@ -16,12 +16,12 @@
     unzip /vagrant/PREST_VM_Desktop_Files.zip -d /home/vagrant/Desktop/
     chmod +x /home/vagrant/Desktop/*.desktop
 
-    cd ~/Desktop/prest_3_02
+    cd /home/vagrant/Desktop/prest_3_02
     make -k
     make -k altertest
 
 # Add Terminal to startup applications before reloading VM
-    mkdir /home/vagrant/.config/autostart/
+    mkdir -p /home/vagrant/.config/autostart/
     mv /home/vagrant/Desktop/Terminal.desktop /home/vagrant/.config/autostart/
 
 #Reboot the system
