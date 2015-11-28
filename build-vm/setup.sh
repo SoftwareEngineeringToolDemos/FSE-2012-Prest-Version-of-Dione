@@ -16,7 +16,7 @@
     unzip /vagrant/PREST_VM_Desktop_Files.zip -d /home/vagrant/Desktop/
     chmod +x /home/vagrant/Desktop/*.desktop
 
-    cd ~/Desktop/prest_3_02
+    cd /home/vagrant/Desktop/prest_3_02
     make -k
     make -k altertest
 
