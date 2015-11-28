@@ -21,7 +21,7 @@
     make -k altertest
 
 # Add Terminal to startup applications before reloading VM
-    mkdir /home/vagrant/.config/autostart/
+    mkdir -p /home/vagrant/.config/autostart/
     mv /home/vagrant/Desktop/Terminal.desktop /home/vagrant/.config/autostart/
 
 #Reboot the system
