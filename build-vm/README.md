@@ -22,7 +22,8 @@ Follow this process to create the PREST tool VM from scratch:
     $ vagrant up
     ```  
 5. After built, VM GUI will be displayed.  
-6. The VM will reboot after provisioning.  
+6. The VM will reboot after provisioning, please wait for the VM to come up.  
+7. A terminal should start in the Prest tool directory. Refer to Readme.txt on VM's Desktop to get started.
 
 #### Note:
   - The VM login credentials are:
