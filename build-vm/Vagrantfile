@@ -15,7 +15,7 @@ Vagrant.configure(2) do |config|
        vb.name = "PREST-Demo-VM"
        vb.customize ["modifyvm", :id, "--clipboard", "bidirectional"]
        vb.customize ["modifyvm", :id, "--usb", "off"]
-      vb.customize ["modifyvm", :id, "--usbehci", "off"]
+       vb.customize ["modifyvm", :id, "--usbehci", "off"]
     end
   
   # Run provisioning script
