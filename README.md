@@ -4,7 +4,7 @@ This repository contains information related to the tool Prest: version 3.02. Th
 
 This repository <i>is not</i> the original repository for this tool. Following are some of the links to the original project:
 
-* The [Official Project Page](http://fisher.utstat.toronto.edu/sun/Software/Prest/prest3.02/), including the tar file for the project
+* The [Official Project Page](http://fisher.utstat.toronto.edu/sun/Software/Prest/prest3.02/), including the download [Page] (http://fisher.utstat.toronto.edu/sun/Software/Prest/prest3.02/download.html)
 
 In this repository, for the Prest project you will find:
 
