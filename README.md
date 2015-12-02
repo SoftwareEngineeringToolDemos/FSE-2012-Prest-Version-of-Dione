@@ -11,13 +11,11 @@ This repository <i>is not</i> the original repository for this tool. Following a
 
 In this repository, for the Prest project you will find:
 
-* :white_check_mark: prest.c:      Source code (available)
-* :white_check_mark: altertest.c:  Extension of the functionality of the Prest tool (available).
-* prest:        An executable file after compilation of the source code.
-* README.md:    The README file published along side the project by the authors which explains the details of the project and the steps for execution of the tool.
-* Some sample input files are also available to test the tool along with the expected output files.
+* :white_check_mark: [Source code] (prest_3_02/prest.c) (available)
+* :white_check_mark: [Executable] (prest_3_02/prest.solaris) (available)
+* :white_check_mark: [Extension] (prest_3_02/altertest.c) of the functionality of the Prest tool (available)
+* :white_check_mark: Virtual machine containing tool (available)
 
-Internal link for the executable
-* [Executable](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-Prest-Version-of-Dione/blob/master/prest_3_02/prest.solaris)
+In this repository you will also find, the original [README] (prest_3_02/README) published by the authors which explains the details of the project and the steps for execution of the tool. Some sample input files are also available to test the tool along with the expected output files.
 
 This repository was constructed by [Apoorv Joshi](https://github.com/apoorv-vijay-joshi) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Lei Sun, Kenneth Wilder,  Mary Para McPeek for their help in establishing this repository.
