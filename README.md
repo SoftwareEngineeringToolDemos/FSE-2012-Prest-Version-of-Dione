@@ -10,11 +10,10 @@ This repository <i>is not</i> the original repository for this tool. Following a
 * The [Official Project Page](http://fisher.utstat.toronto.edu/sun/Software/Prest/prest3.02/), including the download [Page] (http://fisher.utstat.toronto.edu/sun/Software/Prest/prest3.02/download.html)
 
 In this repository, for the Prest project you will find:
-
 * :white_check_mark: [Source code] (prest_3_02/prest.c) (available)
 * :white_check_mark: [Executable] (prest_3_02/prest.solaris) (available)
 * :white_check_mark: [Extension] (prest_3_02/altertest.c) of the functionality of the Prest tool (available)
-* :white_check_mark: [Virtual machine containing tool] (https://drive.google.com/a/ncsu.edu/file/d/0B05PnJKX_BJBVHJlc0RwV0Y3WUk/view?usp=sharing) (available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 In this repository you will also find, the original [README] (prest_3_02/README) published by the authors which explains the details of the project and the steps for execution of the tool. Some sample input files are also available to test the tool along with the expected output files.
 
